@@ -15,8 +15,8 @@
 ### Group Members
 
 1. Geronimo, Kyle Mikhael Romeo E. 
->> Programmer Contibution Percent: 
+> Programmer Contibution Percent: 
 2. 
->> Troubleshooter Contribution Percent:
+> Troubleshooter Contribution Percent:
 3. 
->>  Contribution Percent:
+>  Contribution Percent:
