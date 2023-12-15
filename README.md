@@ -16,11 +16,15 @@
 
 ![PythonApp](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/f7a8f8cf-ac01-4891-a6c1-987c4150028f)
 
-### main & function file 
+### Main & Function File 
 
 ![Main](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/0549f075-d681-473e-b6e1-4aaf68380d70)
 
 ![Function](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/ea5917dc-a725-4604-be50-72ce734b2e20)
+
+### SDG Goals :
+
+This program benefits the SDG goals 4 Quality Education and 14 Life below water
 
 ### Group Members
 
