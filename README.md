@@ -24,7 +24,12 @@
 
 ### SDG Goals :
 
-This program benefits the SDG goals 4 Quality Education and 14 Life below water
+This program benefits the SDG goals 4 Quality Education and 14 Life below water.
+
+![image](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/53602f0b-e89a-4658-bbef-2c1402f55e5e)
+
+![image](https://github.com/SinMurasaki/Python-Random-Fact-Generator/assets/129580972/0aa9a68b-d65d-4825-8bf9-20f91d1a87d9)
+
 
 ### Group Members
 
