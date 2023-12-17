@@ -34,7 +34,7 @@ This program benefits the SDG goals 4 Quality Education and 14 Life below water.
 ### Group Members
 
 1. Geronimo, Kyle Mikhael Romeo E. 
-> Programmer Contibution Percent: 40%
+> Programmer Contribution Percent: 40%
 2. Melchor, Grace Joy A.
 > Troubleshooter Contribution Percent: 30%
 3. Majadas, Jamaeca A.
