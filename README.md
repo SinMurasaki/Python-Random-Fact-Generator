@@ -35,3 +35,14 @@ This program benefits the SDG goals 4 Quality Education and 14 Life below water.
 > Troubleshooter Contribution Percent: 30%
 
 ###### While Kyle was the main programmer and did the majority of the program it served as a challenge doing the whole program alone as such when Kyle encounters an issue or a wall, when he doesn't know what to do he passes the issue to Grace & Jamaeca so they can look it up and fix it.
+
+# *SELF ASSESSMENT*
+Based on the given rubric for grading, the group assesed the system and it resulted to this:
+| Metric  |  4 | 3  | 2  |  1 |
+|---|---|---|---|---|
+| Code Reusability  |   |   | ✔ |   |
+| Maintainability  | ✔ |   |   |   |
+| Scalability  | ✔  |   |   |   |
+| Execution  | ✔  |   |   |   |
+| Originality  |  |  |  ✔ |   |
+| Overall Impression    |  | ✔  |   |
